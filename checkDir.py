@@ -47,5 +47,5 @@ def countLines(name):
 #     print('\nFile ' + str(count) + ': ')
 #     count = count + 1
 #     total_len = total_len + countLines(item)
-#
+# #
 # print('\nTotal lines here : ' + str(total_len))
